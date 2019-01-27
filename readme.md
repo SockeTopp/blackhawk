@@ -1,5 +1,7 @@
 # BlackHawk
 
+
+![alt text](https://github.com/SockeTopp/blackhawk/tree/master/src/common/images/blackhawk_logo_color.png "Logo Title Text 1")
 BlackHawk is a simple web-based search tool that lets user analyze the contents of pdf files on web pages fast and efficient without any fuzz. 
 
 ##### Story
@@ -14,6 +16,7 @@ As I was typing Ctrl + F... in a pdf file to see if what I was looking for exist
 Operating system that have a command line using bash. In Windows I reccomend downloading Git for Windows. 
 ##### How to use
 Run the command following this pattern: blackhawk.sh [URL] [KEYWOERD]
+
 Example:
 ```
 $./blackhawk.sh https://www.ida.liu.se/~TDDB44/lectures/lectures.en.shtml JIT
@@ -24,8 +27,8 @@ JIT was found in the following pdf files on the website:
 
 ##### How it works
 * BlackHawk simply download all the pdf files given an URL. 
-* Converts each pdf file to a txt file 
-* Then scans each txt file for the given keyword and return the result
+* Converts each pdf file to a txt file.
+* Then scans each txt file for the given keyword and return the result.
 
 ##### Considerations
 I choose Bash because I wanted this to be a fast and fun project. Bash is a great scripting languages the carries with a lot of efficient tools that came handy in this project.
@@ -35,7 +38,7 @@ I might consider rewriting this in C++ in the future if this project would ever 
 Eagles, Hawks and Helicopter... fly high in the sky giving them an excellent overview over the distant fields and landscapes. In this metafor pdf files are the landscape and the search tool is the flying machine (haha) giving you a great overview on which pdf files are of interest. 
 
 ## Built With
-Beer beer ber bash bash bash. (Swedish pun)
+Beer beer ber bash bash bash. (Swedish pun).
 
 ## Contributing
 
@@ -67,5 +70,5 @@ Thanks to all people out there that makes programming a little less painful (Bec
 *[Countless people posting here @stackoverflow.com](https://stackoverflow.com/questions/10582763/how-to-return-an-array-in-bash-without-using-globals)
 * [Aaron Digulla @stackoverflow.com](https://stackoverflow.com/questions/29889074/how-to-wait-for-first-command-to-finish/29890106#29890106)
 
-This really makes me feel like I should contribute to Stackoverflow. Share the knowledge people!
+This really makes me feel like I should contribute more to Stackoverflow. Share the knowledge people!
 # Peace!
