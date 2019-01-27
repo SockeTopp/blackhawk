@@ -1,5 +1,4 @@
-# BlackHawk 
-![alt text](src/common/images/blackhawk_logo_color_xsmall.png "blackhawk_logo_color")
+# BlackHawk ![alt text](src/common/images/blackhawk_logo_color_xsmall.png "blackhawk_logo_color")
 
 BlackHawk is a simple web-based search tool that lets user analyze the contents of pdf files on web pages fast and efficient without any fuzz. 
 
