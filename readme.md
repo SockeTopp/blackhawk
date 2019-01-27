@@ -2,7 +2,7 @@
 
 BlackHawk is a simple web-based search tool that lets user analyze the contents of pdf files on web pages fast and efficient without any fuzz. 
 
-##### Story
+### Story
 The idea of a web-based search tool emerged as I was studying for my exam in Compiler Construction at University. As some of you may know the field of compiler construction is quite extensive and covers a lot of different topics such as lexical analysis, intermediate representation, code optimization, parsers and code generation to name a few. 
 
 At my University most of the lecture slides are uploaded as Portable Document Format (PDF) files on a course website so that students can take part of the core content in every course. The number of slides various but usually yields from 1-3 different pdf files for each topic. Needless to say you spend a lot of time reading slides and course literature in order to study for the final exam. 
@@ -23,7 +23,7 @@ JIT was found in the following pdf files on the website:
 13-Interpreters
 ```
 
-##### How it works
+### How it works
 * BlackHawk simply download all the pdf files given an URL. 
 * Converts each pdf file to a txt file.
 * Then scans each txt file for the given keyword and return the result.
@@ -32,20 +32,20 @@ JIT was found in the following pdf files on the website:
 I choose Bash because I wanted this to be a fast and fun project. Bash is a great scripting languages the carries with a lot of efficient tools that came handy in this project.
 I might consider rewriting this in C++ in the future if this project would ever develop to something bigger than just a side project. 
 
-##### Idea behind the name
+### Idea behind the name
 Eagles, Hawks and Helicopter... fly high in the sky giving them an excellent overview over the distant fields and landscapes. In this metafor pdf files are the landscape and the search tool is the flying machine (haha) giving you a great overview on which pdf files are of interest. 
 
-## Built With
+### Built With
 Beer beer ber bash bash bash. (Swedish pun).
 
-## Contributing
+### Contributing
 
 Please read the WIKI page for details on our code of conduct (non so far...), and the process for submitting pull requests to us (not considered that yet..). However, fork it and contribute. I have written down some thoughts of improvements.
 
-## Authors
+### Authors
 * **Sokrates Lamprou** - *Initial work* - [Socketopp](https://github.com/Socketopp)
 
-## Acknowledgments
+### Acknowledgments
 
 Thanks to all people out there that makes programming a little less painful (Because Bash is such an obvious and straight forward language..)
 
