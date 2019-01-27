@@ -65,7 +65,7 @@ Thanks to all people out there that makes programming a little less painful (Bec
 * [peterph @ unix.stackexchange.com](https://unix.stackexchange.com/questions/68846/how-do-i-remove-all-sub-directories-from-within-a-directory
 )
 * [Vivek Gite @cyberciti.biz](https://www.cyberciti.biz/faq/finding-bash-shell-array-length-elements/)
-*[Countless people posting here @stackoverflow.com](https://stackoverflow.com/questions/10582763/how-to-return-an-array-in-bash-without-using-globals)
+* [Countless people posting here @stackoverflow.com](https://stackoverflow.com/questions/10582763/how-to-return-an-array-in-bash-without-using-globals)
 * [Aaron Digulla @stackoverflow.com](https://stackoverflow.com/questions/29889074/how-to-wait-for-first-command-to-finish/29890106#29890106)
 
 This really makes me feel like I should contribute more to Stackoverflow. Share the knowledge people!
