@@ -5,7 +5,7 @@ BlackHawk is a simple web-based search tool that lets user analyze the contents 
 ### Story
 The idea of a web-based search tool emerged as I was studying for my exam in Compiler Construction at University. As some of you may know the field of compiler construction is quite extensive and covers a lot of different topics such as lexical analysis, intermediate representation, code optimization, parsers and code generation to name a few. 
 
-At my University most of the lecture slides are uploaded as Portable Document Format (PDF) files on a course website so that students can take part of the core content in every course. The number of slides various but usually yields from 1-3 different pdf files for each topic. Needless to say you spend a lot of time reading slides and course literature in order to study for the final exam. 
+At my University most of the lecture slides are uploaded as Portable Document Format (PDF) files on a course website so that students can take part of the core content in every course. The number of slides varies but usually yields from 1-3 different pdf files for each topic. Needless to say you spend a lot of time reading slides and course literature in order to study for the final exam. 
 
 As I was typing Ctrl + F... in a pdf file to see if what I was looking for existed in that pdf file, the idea suddenly hit me. What if there was some kind of tool that lets you scan all pdfs file on a website and lets you know which once that are of your interest? That was the main idea here. So right after the exam period I started coding.
 
