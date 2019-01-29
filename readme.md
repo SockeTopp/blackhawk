@@ -16,7 +16,7 @@ Operating system that have a command line using bash. If you're not using any of
 Once Git for Windows is installed. You need to download and install
 [Xpdf tools](https://www.xpdfreader.com/download.html) from xpdfreader.com. Extract the .zip file and put the pdftotext.exe file Git\mingw64\bin. 
 For me that was: C:\Program Files\Git\mingw64\bin.
-Now you're ready to role! 
+Now you're ready to roll! 
 
 
 ##### How to use
