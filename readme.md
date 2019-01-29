@@ -11,12 +11,14 @@ As I was typing Ctrl + F... in a pdf file to see if what I was looking for exist
 
 ### Getting Started
 ##### Prerequisites
-Operating system that have a command line using bash. If you're not using any of Linux distributions, then I reccomend you download Git for Windows. 
+I am fairly certain that this works on Linux since it already got bash. If you miss pdftotext or wget, simply install with apt-get.
+###### Windows
+You need to download [Git](https://git-scm.com/), [Xpdf tools](https://www.xpdfreader.com/download.html) and [wget](https://eternallybored.org/misc/wget/). 
 
-Once Git for Windows is installed. You need to download and install
-[Xpdf tools](https://www.xpdfreader.com/download.html) from xpdfreader.com. Extract the .zip file and put the pdftotext.exe file Git\mingw64\bin. 
-For me that was: C:\Program Files\Git\mingw64\bin.
-Now you're ready to roll! 
+1. Install Git for Windows
+2. Extract Xpdf tools and wget zip files. 
+3. Add pdftotext.exe and wget.exe in C:\Program Files\Git\mingw64\bin.
+4. Now you're ready to roll! 
 
 
 ##### How to use
