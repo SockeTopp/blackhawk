@@ -11,7 +11,14 @@ As I was typing Ctrl + F... in a pdf file to see if what I was looking for exist
 
 ### Getting Started
 ##### Prerequisites
-Operating system that have a command line using bash. In Windows I reccomend downloading Git for Windows. 
+Operating system that have a command line using bash. If you're not using any of Linux distributions, then I reccomend you download Git for Windows. 
+
+Once Git for Windows is installed. You need to download and install
+[Xpdf tools](https://www.xpdfreader.com/download.html) from xpdfreader.com. Extract the .zip file and put the pdftotext.exe file Git\mingw64\bin. 
+For me that was: C:\Program Files\Git\mingw64\bin.
+Now you're ready to role! 
+
+
 ##### How to use
 Run the command following this pattern: blackhawk.sh [URL] [KEYWOERD]
 
