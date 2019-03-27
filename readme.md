@@ -24,6 +24,8 @@ You need to download [Git](https://git-scm.com/), [Xpdf tools](https://www.xpdfr
 ##### How to use
 Run the command following this pattern: blackhawk.sh [URL] [KEYWOERD]
 
+### Beware: Current edition removes all files in the current directory. So make sure you do not have any personal files in the current directory while running the script. 
+
 Example:
 ```
 $./blackhawk.sh https://www.ida.liu.se/~TDDB44/lectures/lectures.en.shtml JIT
